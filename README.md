@@ -111,6 +111,13 @@ If you select an image of a child eating pizza, the model might classify it as "
 
 ---
 
+## 🎥 Watch the videos
+1. [AI Image Classifier with Python: Project Preview](https://youtu.be/-DS6FXhGdHs)
+2. [Step 1 to Build an AI Image Classifier](https://youtu.be/lzz5gNUWwGc)
+3. [Step 2 to Build an AI Image Classifier](https://youtu.be/Pbd7-8nleMw)
+
+---
+
 ## 🔍 Troubleshooting
 
 ### Common Issues:
