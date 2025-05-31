@@ -53,7 +53,7 @@ python image_classifier.py
 5. Click "Start Image Classification" button
 
 Application interface during folder selection and classification process:
-![Application Interface](image_classifier.png)
+![Application Interface](Image-Classifier-App-English-Version.PNG)
 
 ---
 
